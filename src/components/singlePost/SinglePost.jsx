@@ -140,7 +140,7 @@ export default function SinglePost() {
      I decide to blog this event to share with parents whose children could be struggling to cope in the mainstream schools.
      Sending them to VLCS and let the Word of God transform their lives.
      Parents who went on stage to share their gratitude and that they never regret their choice to send their children
-     to VLCS.
+     to VLCS. Here is the link to their website: https://victorylifechristianschool.com/
  
           </p>
       </div>
