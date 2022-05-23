@@ -19,9 +19,10 @@
 .headerTitleLg {
   position: absolute;
   top: 10%;
-  font-size: 70px;
+  font-size:2vw;
   font-family: "Lora", serif;
   color: rgb(243, 105, 220)
+  
 }
 
 .headerImg {
