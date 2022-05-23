@@ -52,7 +52,7 @@ export default function SinglePost() {
           alt="image3"
         />
           <br />
-         some text...
+        before the event starts...
           <img
           className="singlePostImg"
           src={image4}
@@ -89,7 +89,8 @@ export default function SinglePost() {
           src={image8}
           alt="image8"
         />
-          can sing and do skit drama....
+          some lead worship songs can sing and perform musical skit.It is a well-rounded holistic education system, 
+          not only focus on academic subjects alone which does not make one successful in life.
           <br />
           <img
           className="singlePostImg"
@@ -103,7 +104,13 @@ export default function SinglePost() {
           src={image10}
           alt="image10"
         />
-        Moses Chin, one of the graduates preaching and sharing his testimony...
+        Moses Chin, one of the graduates sharing God's Word from the stage. 
+        He used to be someone who struggle with projecting his voice and he shared his testimony of how God
+        breakthrough for him to give speech to a large audience with loud clear voice. 
+        His short yet impactful message stir me up and make me see the importance and benefits of hiding God's Word in our heart.
+        He said when we hid God's Word in our heart, we hid Jesus in our heart cos Jesus is the Word.
+        Moses said he has memorised the whole book of Proverbs, this really inspired me to do likewise. 
+
         <br />
           <img
           className="singlePostImg"
@@ -118,6 +125,7 @@ export default function SinglePost() {
           alt="image12"
         />
       Every one of them realise their potential in life.
+
       <br />
           <img
           className="singlePostImg"
@@ -125,6 +133,15 @@ export default function SinglePost() {
           alt="image13"
         />
      God has a wonderful plan and an expected end for each of them.
+     This is one of most memorable event I have attended after 2 years of lock down due to 
+     the covid19 pandemic.
+     I brought along my camera and took capture some shots of the event, 
+     and my thought is to good thing has to share with others.
+     I decide to blog this event to share with parents whose children could be struggling to cope in the mainstream schools.
+     Sending them to VLCS and let the Word of God transform their lives.
+     Parents who went on stage to share their gratitude and that they never regret their choice to send their children
+     to VLCS.
+ 
           </p>
       </div>
     </div>
