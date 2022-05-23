@@ -37,7 +37,7 @@ export default function Settings() {
           </button>
         </form>
       </div>
-      <Sidebar />
+      {/* <Sidebar /> */}
     </div>
   );
 }
