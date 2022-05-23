@@ -60,7 +60,7 @@ export default function SinglePost() {
         />
           <br />
 
-          some text...
+          some students serving at the reception
           <img
           className="singlePostImg"
           src={image5}
