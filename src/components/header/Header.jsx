@@ -9,7 +9,7 @@ export default function Header() {
       </div>
       <img
         className="headerImg"
-        src="https://github.com/LayMui/react-blog-ui/blob/master/src/images/VLCS/1.JPG"
+        src="https://www.w3schools.com/images/picture.jpg"
         alt=""
       />
     </div>
