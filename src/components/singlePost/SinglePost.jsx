@@ -1,14 +1,16 @@
 import { Link } from "react-router-dom";
 import "./singlePost.css";
 
+import image1 from '../assets/vlcs/2.JPG'
+
 export default function SinglePost() {
   return (
     <div className="singlePost">
       <div className="singlePostWrapper">
         <img
           className="singlePostImg"
-          src="https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
-          alt=""
+          src={image1}
+          alt="image1"
         />
         <h1 className="singlePostTitle">
           Lorem ipsum dolor
@@ -22,7 +24,7 @@ export default function SinglePost() {
             Author:
             <b className="singlePostAuthor">
               <Link className="link" to="/posts?username=Safak">
-                Safak
+                LayMui
               </Link>
             </b>
           </span>
