@@ -135,8 +135,8 @@ export default function SinglePost() {
      God has a wonderful plan and an expected end for each of them.
      This is one of most memorable event I have attended after 2 years of lock down due to 
      the covid19 pandemic.
-     I brought along my camera and took capture some shots of the event, 
-     and my thought is to good thing has to share with others.
+     I brought along my camera and capture some shots of the event, 
+     and my thought is good thing has to share with others.
      I decide to blog this event to share with parents whose children could be struggling to cope in the mainstream schools.
      Sending them to VLCS and let the Word of God transform their lives.
      Parents who went on stage to share their gratitude and that they never regret their choice to send their children
