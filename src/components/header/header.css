@@ -19,7 +19,9 @@
 .headerTitleLg {
   position: absolute;
   top: 20%;
-  font-size: 100px;
+  font-size: 70px;
+  font-family: "Lora", serif;
+  color: red
 }
 
 .headerImg {

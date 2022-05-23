@@ -1,16 +1,18 @@
 import "./header.css";
 
+import image from '../assets/vlcs/1.JPG'
+
 export default function Header() {
   return (
     <div className="header">
       <div className="headerTitles">
-        <span className="headerTitleSm">Welcome to</span>
-        <span className="headerTitleLg">LAY MUI's BLOG</span>
+        {/* <span className="headerTitleSm">Welcome to</span> */}
+        <span className="headerTitleLg">Victory life Christian School Graduation Ceremony 2022</span>
       </div>
       <img
         className="headerImg"
-        src="https://www.w3schools.com/images/picture.jpg"
-        alt=""
+        src={image}
+        alt="cover story"
       />
     </div>
   );
