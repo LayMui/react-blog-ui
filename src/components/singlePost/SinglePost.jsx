@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import "./singlePost.css";
 
-import image1 from '../assets/vlcs/2.JPG'
+import image from '../assets/vlcs/2.JPG'
 
 export default function SinglePost() {
   return (
@@ -9,8 +9,8 @@ export default function SinglePost() {
       <div className="singlePostWrapper">
         <img
           className="singlePostImg"
-          src={image1}
-          alt="image1"
+          src={image}
+          alt="image"
         />
         <h1 className="singlePostTitle">
           Lorem ipsum dolor

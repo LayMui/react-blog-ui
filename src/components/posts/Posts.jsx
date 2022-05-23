@@ -1,7 +1,7 @@
 import Post from "../post/Post";
 import "./posts.css";
 
-import image1 from '../assets/vlcs/2.JPG'
+import image1 from '../assets/vlcs/1.JPG'
 
 export default function Posts() {
   return (

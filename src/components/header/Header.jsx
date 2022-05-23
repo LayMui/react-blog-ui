@@ -1,13 +1,13 @@
 import "./header.css";
 
-import image from '../assets/vlcs/1.JPG'
+import image from '../assets/images/cover.JPG'
 
 export default function Header() {
   return (
     <div className="header">
       <div className="headerTitles">
         {/* <span className="headerTitleSm">Welcome to</span> */}
-        <span className="headerTitleLg">Victory life Christian School Graduation Ceremony 2022</span>
+        <span className="headerTitleLg">Welcome to LayMui's Blog</span>
       </div>
       <img
         className="headerImg"
